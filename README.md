@@ -1,6 +1,6 @@
-# Chrome Bootstrap Viewport size indicator
+# Chrome Bootstrap Helper
 
-Chrome extension indicating the current Bootstrap viewport size (xs, sm, md, lg).
+**Chrome extension indicating the current Bootstrap viewport size (xs, sm, md, lg).**
 
 This Chrome extension adds a button, when clicked it injects a html snippet to the dom of the active tab. 
 The snippet displays the current Bootstrap viewport size (xs, sm, md, lg).
